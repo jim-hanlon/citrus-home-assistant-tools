@@ -1,0 +1,59 @@
+HOSTNAME,IP,NAME,CHANNEL,Product,MAC,Default Device Name,MQTT,Shelly
+circuit-exterior-relay,10.100.0.10,circuit-exterior-relay,circuit-exterior-relay,Shelly Plus 1PM UL,b8:d6:1a:88:da:dc,shellyplus1pm-B8D61A88DADC,,
+exterior-atrium-100A,10.100.0.11,exterior-atrium-100A,exterior-atrium-100A,Shelly Dimmer 2,34:94:54:71:b6:32,shellydimmer2-34945471B632,,yes
+exterior-front-sconces-100B,10.100.0.12,exterior-sconces-100B,exterior-front-sconces-100B,Shelly Dimmer 2,3c:61:05:e3:9e:02,shellydimmer2-3C6105E39E02,,yes
+exterior-lanai-door-100C,10.100.0.13,exterior-lanai-door-100C,exterior-lanai-door-100C,Shelly Dimmer 2,48:55:19:da:01:98,shellydimmer2-485519DA0198,yea,yes
+exterior-master-closet-door-100D,10.100.0.14,exterior-mcloset-100D,exterior-master-closet-door-100D,Shelly Dimmer 2,34:94:54:72:48:04,shellydimmer2-349454724804,,yes
+exterior-pool-steps-100E,10.100.0.15,exterior-poolsteps-100E,exterior-pool-steps-100E,Shelly Dimmer 2,48:55:19:d9:41:75,shellydimmer2-485519D94175,,yes
+exterior-soffit-downlights-100F,10.100.0.16,exterior-soffit-100F,exterior-soffit-downlights-100F,Shelly Dimmer 2,48:55:19:d8:e8:f2,shellydimmer2-485519D8E8F2,,yes
+exterior-pool-lights-100G,10.100.0.17,exterior-pool-lights-100G,exterior-pool-lights-100G,Shelly Dimmer 2,48:55:19:da:22:85,shellydimmer2-485519DA2285,,yes
+exterior-utility-bench-115A,10.100.0.18,exterior-utility-bench-115A,exterior-utility-bench-115A,Shelly Dimmer 2,48:55:19:d9:dc:9e,shellydimmer2-485519D9DC9E,,yes
+circuit-nave-relay,10.100.0.20,circuit-nave-relay,circuit-nave-relay,Shelly Plus 1PM UL,c0:49:ef:8c:c8:08,shellyplus1pm-c049ef8cc808,yes,yes
+living-room-lights-101A,10.100.0.21,living-room-lights-101A,living-room-lights-101A,Shelly Dimmer 2,c4:5b:be:78:73:c9,shellydimmer2-C45BBE7873C9,yes,yes
+living-room-fan-relay-101B,10.100.0.22,living-room-fan-relay-101B,living-room-fan-relay-101B,Shelly Plus 1 UL,b8:d6:1a:87:d7:98,shellyplus1-B8D61A87D798,,
+dining-room-lights-102A,10.100.0.23,dining-room-lights-102A,dining-room-lights-102A,Shelly Dimmer 2,48:55:19:da:07:d1,shellydimmer2-485519DA07D1,,yes
+dining-room-entry-light-102B,10.100.0.24,dining-room-entry-light-102B,dining-room-entry-light-102B,Shelly Dimmer 2,c4:5b:be:78:78:33,shellydimmer2-C45BBE787833,,yes
+dining-room-pendant-102C,10.100.0.25,dining-room-pendant-102C,dining-room-pendant-102C,Shelly Dimmer 2,48:55:19:da:2d:75,shellydimmer2-485519DA2D75,,yes
+circuit-kitchen-relay,10.100.0.30,circuit-kitchen-relay,circuit-kitchen-relay,Shelly Plus 1PM UL,b8:d6:1a:88:cc:74,shellyplus1pm-B8D61A88CC74,,
+kitchen-counter-102D,10.100.0.31,kitchen-counter-102D,kitchen-counter-102D,Shelly Dimmer 2,44:17:93:21:f9:08,shellydimmer2-44179321F908,yes,yes
+kitchen-island-lights-102E,10.100.0.32,kitchen-island-lights-102E,kitchen-island-lights-102E,Shelly Dimmer 2,44:17:93:21:38:79,shellydimmer2-441793213879,yes,yes
+kitchen-island-pendant-102F,10.100.0.33,kitchen-pendant-102F,kitchen-island-pendant-102F,Shelly Dimmer 2,34:94:54:7a:3d:50,shellydimmer2-3494547A3D50,yes,yes
+kitchen-task-lights-102G,10.100.0.34,kitchen-task-lights-102G,kitchen-task-lights-102G,Shelly Dimmer 2,34:94:54:71:c2:01,shellydimmer2-34945471C201,,yes
+circuit-garage-relay,10.100.0.40,circuit-garage-relay,circuit-garage-relay,Shelly Plus 1PM UL,90:38:0c:37:35:34,shellyplus1pm-90380C373534,,
+garage-bay-lights-114A,10.100.0.41,garage-bay-lights-114A,garage-bay-lights-114A,Shelly Dimmer 2,48:55:19:DA:E0:44,shellydimmer2-485519DAE044,,yes
+garage-shop-114B,10.100.0.42,garage-shop-114B,garage-shop-114B,Shelly Dimmer 2,34:94:54:77:ce:05,shellydimmer2-34945477CE05,,yes
+circuit-lanai-relay,10.100.0.50,circuit-lanai-relay,circuit-lanai-relay,Shelly Plus 1PM UL,c0:49:ef:8c:fe:b4 ,shellyplus1pm-C049EF8CFEB4,yes,yes
+lanai-lights-103A,10.100.0.51,lanai-lights-103A,lanai-lights-103A,Shelly Dimmer 2,34:94:54:72:35:33,shellydimmer2-349454723533,,
+lanai-fan-relay-103B,10.100.0.52,lanai-fan-relay-103B,lanai-fan-relay-103B,Shelly Plus 1 UL,b8:d6:1a:87:dd:fc,shellyplus1-b8d61a87ddfc,,
+lanai-grill-lights-103C,10.100.0.53,lanai-grill-lights-103C,lanai-grill-lights-103C,Shelly Dimmer 2,34:94:54:72:3E:95,shellydimmer2-349454723E95,,
+lanai-sconces-103D,10.100.0.54,lanai-sconces-103D,lanai-sconces-103D,Shelly Dimmer 2,C4:5B:BE:78:46:58 ,shellydimmer2-C45BBE784658,,
+circuit-guest-relay,10.100.0.60,circuit-guest-relay,circuit-guest-relay,Shelly Plus 1PM UL,90:38:0C:36:A2:68,shellyplus1pm-90380c36a268,,yes
+guest-lights-112A,10.100.0.61,guest-lights-112A,guest-lights-112A,Shelly Dimmer 2,48:55:19:da:1d:a8,shellydimmer2-485519DA1DA8,,yes
+guest-counter-112B,10.100.0.62,guest-counter-112B,guest-counter-112B,Shelly Dimmer 2,48:55:19:d9:47:8e,shellydimmer2-485519D9478E,,yes
+guest-entry-lights-112C,10.100.0.63,guest-entry-lights-112C,guest-entry-lights-112C,Shelly Dimmer 2,34:94:54:72:96:6f,shellydimmer2-34945472966F,yes,yes
+guest-fan-relay-112D,10.100.0.64,guest-fan-relay-112D,guest-fan-relay-112D,Shelly Plus 1 UL,b8:d6:1a:87:ea:78,shellyplus1-B8D61A87EA78,,
+guest-jellyfish-relay-112E,10.100.0.65,guest-jellyfish-relay-112E,guest-jellyfish-relay-112E,Shelly Plus 1 UL,b8:d6:1a:8c:4e:ac,shellyplus1-B8D61A8C4EAC,,
+guest-bath-lights-113A,10.100.0.66,guest-bath-lights-113A,guest-bath-lights-113A,Shelly Dimmer 2,3c:61:05:e4:0c:d9,shellydimmer2-3C6105E40CD9,yes,yes
+guest-bath-fan-relay-113B,10.100.0.67,guest-bath-fan-relay-113B,guest-bath-fan-relay-113B,Shelly Plus 1 UL,b8:d6:1a:8a:81:6c,shellyplus1-B8D61A8A816C ,,
+guest-bath-vanity-113C,10.100.0.68,guest-bath-vanity-113C,guest-bath-vanity-113C,Shelly Dimmer 2,34:94:54:72:31:ee,shellydimmer2-3494547231EE,,yes
+circuit-hall-office-relay,10.100.0.70,circuit-hall-office-relay,circuit-hall-office-relay,Shelly Plus 1PM UL,b8:d6:1a:88:82:d0,shellyplus1pm-b8d61a8882d0,yes,yes
+hall-bath-lights-107A,10.100.0.71,hall-bath-lights-107A,hall-bath-lights-107A,Shelly Dimmer 2,3c:61:05:e4:07:16 ,shellydimmer2-3C6105E40716,yes,yes
+hall-bath-fan-relay-107B,10.100.0.72,hall-bath-fan-relay-107B,hall-bath-fan-relay-107B,Shelly Plus 1 UL,b8:d6:1a:88:0e:6c,shellyplus1-B8D61A880E6C,yes,-
+hall-bath-vanity-107C,10.100.0.73,hall-bath-vanity-107C,hall-bath-vanity-107C,Shelly Dimmer 2,c4:5b:be:77:9d:3a,shellydimmer2-C45BBE779D3A,yes,yes
+office-lights-108A,10.100.0.74,office-lights-108A,office-lights-108A,Shelly Dimmer 2,34:94:54:71:d2:a0,shellydimmer2-34945471D2A0,yes,yes
+office-fan-relay-108B,10.100.0.75,office-fan-relay-108B,office-fan-relay-108B,Shelly Plus 1 UL,b8:d6:1a:88:31:54,shellyplus1-B8D61A883154,,yes
+office-task-108C,10.100.0.76,office-task-108C,office-task-108C,Shelly Dimmer 2,34:94:54:72:3d:e0,shellydimmer2-349454723DE0,yes,yes
+hall-lights-109A,10.100.0.77,hall-lights-109A,hall-lights-109A,Shelly Dimmer 2,3c:61:05:e3:26:f8,shellydimmer2-3C6105E326F8,yes,yes
+circuit-master-relay,10.100.0.80,circuit-master-relay,circuit-master-relay,Shelly Plus 1PM UL,c0:49:ef:8c:c4:50,shellyplus1pm-c049ef8cc450,,
+master-lights-104A,10.100.0.81,master-lights-104A,master-lights-104A,Shelly Dimmer 2,48:55:19:da:c0:ca,shellydimmer2-485519DAC0CA,,yes
+master-fan-relay-104B,10.100.0.82,master-fan-relay-104B,master-fan-relay-104B,Shelly Plus 1 UL,b8:d6:1a:8a:80:e4,shellyplus1-B8D61A8A80E4,,
+master-reading-east-104C,10.100.0.83,master-reading-east-104C,master-reading-east-104C,Shelly Dimmer 2,48:55:19:d9:1d:e1,shellydimmer2-485519D91DE1,,yes
+master-reading-west-104D,10.100.0.84,master-reading-west-104D,master-reading-west-104D,Shelly Dimmer 2,48:55:19:da:c0:ca,shellydimmer2-485519DAC0CA,,yes
+master-west-light-104E,10.100.0.85,master-west-light-104E,master-west-light-104E,Shelly Dimmer 2,34:94:54:72:4c:33 ,shellydimmer2-349454724C33,,yes
+master-closet-lights-106A,10.100.0.86,master-closet-lights-106A,master-closet-lights-106A,Shelly Dimmer 2,48:55:19:d9:a2:eb,shellydimmer2-485519D9A2EB,,yes
+mcloset-cabinet-106B,10.100.0.87,mcloset-cabinet-106B,mcloset-cabinet-106B,Shelly Dimmer 2,34:94:54:72:3d:98,shellydimmer2-349454723D98,yes,yes
+circuit-master-bath-relay,10.100.0.90,circuit-master-bath-relay,circuit-master-bath-relay,Shelly Plus 1PM UL,c0:49:ef:8c:6a:ac,shellyplus1pm-c049ef8c6aac,,
+master-bath-lights-105A,10.100.0.91,master-bath-lights-105A,master-bath-lights-105A,Shelly Dimmer 2,44:17:93:20:59:82,shellydimmer2-441793205982,,yes
+master-bath-fan-relay-105B,10.100.0.92,master-bath-fan-relay-105B,master-bath-fan-relay-105B,Shelly Plus 1 UL,b8:d6:1a:88:54:24,shellyplus1-b8d61a885424,FIXME,-
+master-bath-left-105C1,10.100.0.93,master-bath-left-105C1,master-bath-left-105C2,Shelly Dimmer 2,44:17:93:20:fd:c2,shellydimmer2-44179320FDC2,yes,yes
+master-bath-right-105C2,10.100.0.94,master-bath-right-105C2,master-bath-right-105C3,Shelly Dimmer 2,48:55:19:da:70:bf,shellydimmer2-485519DA70BF,yes,yes
